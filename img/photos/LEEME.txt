@@ -1,0 +1,24 @@
+FOTOS REALES (opcional)
+=======================
+Guarda aquí tus fotos con estos nombres EXACTOS (formato .jpg) y la página las usará
+automáticamente en lugar de la ilustración. Si un archivo no existe, se ve la ilustración.
+
+comunidad.jpg      -> fondo de la pantalla de ingreso (vecinos / barrio)
+bienvenida.jpg     -> tarjeta "¡Hola!" del resumen
+alerta.jpg         -> carrusel: alertas / sirena
+mapa.jpg           -> carrusel y encabezado "Mapa de alertas"
+reportes.jpg       -> carrusel, "Mis reportes" y consejos
+notificaciones.jpg -> carrusel y encabezado "Notificaciones"
+calor.jpg          -> carrusel: mapa de calor
+ruta.jpg           -> carrusel: ruta hasta el incidente
+silencio.jpg       -> carrusel: silenciar notificaciones
+policia.jpg        -> panel policial y consejos
+reten.jpg          -> retenes
+historial.jpg      -> historial de atención
+estadisticas.jpg   -> estadísticas
+perfil.jpg         -> "Mi perfil"
+preferencias.jpg   -> "Preferencias"
+
+Recomendado: fotos horizontales de 1200x800 px o más, menos de 400 KB cada una.
+Usa fotos propias o de bancos gratuitos con licencia que permita su uso (por ejemplo Unsplash o Pexels)
+y revisa la licencia de cada una.
